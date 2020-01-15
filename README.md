@@ -57,7 +57,7 @@ ViewPager2 最新版本请点击[**此处**](https://developer.android.com/jetpa
 
 1. 在 XML 布局文件中：
 ```
-<com.pothead.viewpager2banner.ViewPager2Banner
+<com.kebiiii.viewpager2banner.ViewPager2Banner
         android:id="@+id/banner"
         android:layout_width="0dp"
         android:layout_height="250dp"
