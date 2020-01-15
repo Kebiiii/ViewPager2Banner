@@ -23,7 +23,23 @@
 * 支持水平竖直方向
 * 支持圆点指示符及自定义
 * 支持一屏显示 3 个 item 的切换效果
-* 支持 ZoomOutPageTransformer & DepthPageTransformer 效果
+* 支持 各种动画切换 效果
+    AccordionPageTransformer();
+    AlphaPageTransformer();
+    CubePageTransformer();
+    DefaultPageTransformer();
+    DepthPageTransformer());
+    FlipCenterPageTransformer();
+    FlipPageTransformer();
+    NGGuidePageTransformer();
+    RotatePageTransformer();
+    ScalePageTransformer();
+    StackPageTransformer();
+    ZoomCenterPageTransformer();
+    ZoomFadePageTransformer();
+    ZoomPageTransformer();
+    ZoomStackPageTransformer();
+    ZoomOutPageTransformer();
 
 ## Getting started
 
