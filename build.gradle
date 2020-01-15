@@ -21,6 +21,7 @@ allprojects {
     repositories {
         google()
         jcenter()
+        maven { url 'https://jitpack.io' }
 
     }
 }
@@ -47,6 +48,7 @@ ext.deps = [
         coreKtx         : "androidx.core:core-ktx:1.1.0",
         constraintLayout: "androidx.constraintlayout:constraintlayout:1.1.3",
         viewpager2      : "androidx.viewpager2:viewpager2:1.0.0",
+        ViewPager2Banner      : "com.github.Kebiiii:ViewPager2Banner:1.0.0",
 
         // testCompile
         testJunit       : "junit:junit:4.12",

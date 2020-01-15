@@ -30,6 +30,7 @@ dependencies {
     implementation deps.coreKtx
     implementation deps.constraintLayout
     implementation deps.viewpager2
+//    implementation deps.ViewPager2Banner
 
     implementation project(':library')
 }

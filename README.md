@@ -40,7 +40,7 @@ allprojects {
 在项目的 `build.gradle` 中添加
 ```
 dependencies {
-    implementation 'com.github.pothead:ViewPager2Banner:v1.0.0'
+    implementation 'com.github.Kebiiii:ViewPager2Banner:1.0.0'
 }
 ```
 
